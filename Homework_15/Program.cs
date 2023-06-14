@@ -1,24 +1,8 @@
 ﻿/*
 Задача 15: Напишите программу, которая принимает на вход цифру, 
-обозначающую день недели, и проверяет, является ли этот день выходным.
+обозначающую день недели, и проверяет, 
+является ли этот день выходным.*/
 
-int N = 7;
-switch(N)
-{
-    case "1":  printf("не является выходным")
-    break;
-    case "2":  printf("I am One\n");
-
-    case "3": Console.WriteLine("не является выходным");
-    case "4": Console.WriteLine("не является выходным");
-    case "5": Console.WriteLine("не является выходным");
-    case "6": Console.WriteLine("является выходным");
-    case "7": Console.WriteLine("является выходным");
-    break;
-}
-Console.WriteLine("Введите число");
-int Num = Convert.ToInt32(Console.ReadLine());
-Console.WriteLine(switch(Num));*/
 
 Console.WriteLine("Введите число");
 int number = Convert.ToInt32(Console.ReadLine());
