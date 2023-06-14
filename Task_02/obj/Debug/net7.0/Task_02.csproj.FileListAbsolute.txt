@@ -1,0 +1,15 @@
+C:\Users\Елена\Desktop\classwork\Seminar_02\Task_02\obj\Debug\net7.0\Task_02.csproj.AssemblyReference.cache
+C:\Users\Елена\Desktop\classwork\Seminar_02\Task_02\obj\Debug\net7.0\Task_02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Елена\Desktop\classwork\Seminar_02\Task_02\obj\Debug\net7.0\Task_02.AssemblyInfoInputs.cache
+C:\Users\Елена\Desktop\classwork\Seminar_02\Task_02\obj\Debug\net7.0\Task_02.AssemblyInfo.cs
+C:\Users\Елена\Desktop\classwork\Seminar_02\Task_02\obj\Debug\net7.0\Task_02.csproj.CoreCompileInputs.cache
+C:\Users\Елена\Desktop\classwork\Seminar_02\Task_02\bin\Debug\net7.0\Task_02.exe
+C:\Users\Елена\Desktop\classwork\Seminar_02\Task_02\bin\Debug\net7.0\Task_02.deps.json
+C:\Users\Елена\Desktop\classwork\Seminar_02\Task_02\bin\Debug\net7.0\Task_02.runtimeconfig.json
+C:\Users\Елена\Desktop\classwork\Seminar_02\Task_02\bin\Debug\net7.0\Task_02.dll
+C:\Users\Елена\Desktop\classwork\Seminar_02\Task_02\bin\Debug\net7.0\Task_02.pdb
+C:\Users\Елена\Desktop\classwork\Seminar_02\Task_02\obj\Debug\net7.0\Task_02.dll
+C:\Users\Елена\Desktop\classwork\Seminar_02\Task_02\obj\Debug\net7.0\refint\Task_02.dll
+C:\Users\Елена\Desktop\classwork\Seminar_02\Task_02\obj\Debug\net7.0\Task_02.pdb
+C:\Users\Елена\Desktop\classwork\Seminar_02\Task_02\obj\Debug\net7.0\Task_02.genruntimeconfig.cache
+C:\Users\Елена\Desktop\classwork\Seminar_02\Task_02\obj\Debug\net7.0\ref\Task_02.dll
