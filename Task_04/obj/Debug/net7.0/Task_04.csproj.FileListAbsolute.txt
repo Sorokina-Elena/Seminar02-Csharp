@@ -1,0 +1,15 @@
+C:\Users\Елена\Desktop\classwork\Seminar_02\Task_04\bin\Debug\net7.0\Task_04.exe
+C:\Users\Елена\Desktop\classwork\Seminar_02\Task_04\bin\Debug\net7.0\Task_04.deps.json
+C:\Users\Елена\Desktop\classwork\Seminar_02\Task_04\bin\Debug\net7.0\Task_04.runtimeconfig.json
+C:\Users\Елена\Desktop\classwork\Seminar_02\Task_04\bin\Debug\net7.0\Task_04.dll
+C:\Users\Елена\Desktop\classwork\Seminar_02\Task_04\bin\Debug\net7.0\Task_04.pdb
+C:\Users\Елена\Desktop\classwork\Seminar_02\Task_04\obj\Debug\net7.0\Task_04.csproj.AssemblyReference.cache
+C:\Users\Елена\Desktop\classwork\Seminar_02\Task_04\obj\Debug\net7.0\Task_04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Елена\Desktop\classwork\Seminar_02\Task_04\obj\Debug\net7.0\Task_04.AssemblyInfoInputs.cache
+C:\Users\Елена\Desktop\classwork\Seminar_02\Task_04\obj\Debug\net7.0\Task_04.AssemblyInfo.cs
+C:\Users\Елена\Desktop\classwork\Seminar_02\Task_04\obj\Debug\net7.0\Task_04.csproj.CoreCompileInputs.cache
+C:\Users\Елена\Desktop\classwork\Seminar_02\Task_04\obj\Debug\net7.0\Task_04.dll
+C:\Users\Елена\Desktop\classwork\Seminar_02\Task_04\obj\Debug\net7.0\refint\Task_04.dll
+C:\Users\Елена\Desktop\classwork\Seminar_02\Task_04\obj\Debug\net7.0\Task_04.pdb
+C:\Users\Елена\Desktop\classwork\Seminar_02\Task_04\obj\Debug\net7.0\Task_04.genruntimeconfig.cache
+C:\Users\Елена\Desktop\classwork\Seminar_02\Task_04\obj\Debug\net7.0\ref\Task_04.dll
