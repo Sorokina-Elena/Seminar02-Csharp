@@ -7,8 +7,10 @@
 
 int Decrease(int Number)
 {
-    int num1 = Number/100;
-    int num2 = Number%10;
+    int hundred = 100;
+    int dozens = 10;
+    int num1 = Number/hundred;
+    int num2 = Number%dozens;
     int num3 = (Number - (num1*100+num2))/10;
     return(num3);
 }
