@@ -11,7 +11,7 @@ int Decrease(int Number)
     int dozens = 10;
     int num1 = Number/hundred;
     int num2 = Number%dozens;
-    int num3 = (Number - (num1*100+num2))/10;
+    int num3 = (Number - (num1*hundred+num2))/dozens;
     return(num3);
 }
 Console.WriteLine("Введите число");
